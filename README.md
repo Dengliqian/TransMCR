@@ -6,4 +6,4 @@ Facial expression recognition (FER) plays a vital role in areas such as human–
 relationship between facial muscles. Finally, the Texture Deformation Representation (TDR) module captures fine-grained superficial skin textures. Experiments on the RAF-DB, KDEF and FERPlus datasets show significant improvements of our proposed TransMCR framework over state-of-the-art FER methods.
 
 ---
-### The code of TransHTC will be avaliable soon
+### The code of TransMCR will be avaliable soon
